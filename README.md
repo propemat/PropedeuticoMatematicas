@@ -1,5 +1,3 @@
-# Aviso
-## Mañana Jueves 21 de Febrero NO podré asistir a clase. Procuraré reponer ese tiempo. Saludos
 
 # PropedeuticoMatematicas
 
