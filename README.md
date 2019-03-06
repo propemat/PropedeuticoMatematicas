@@ -1,3 +1,5 @@
+# AVISO!
+La clase del jueves 7 de Marzo será en la Unidad de Posgrado edificio  H aula 210 segundo piso, en el horario habitual.
 
 # PropedeuticoMatematicas
 
