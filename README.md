@@ -1,6 +1,6 @@
 ## Aviso
 
-La coordinación me tificó que ya no habrá más clases del propedéutico. Afortunadamente terminamos todo el temario. *Ecuaciones diferenciales* **NO** estará incluido en el examen. 
+La coordinación me notificó que ya no habrá más clases del propedéutico. Afortunadamente terminamos todo el temario. *Ecuaciones diferenciales* **NO** estará incluido en el examen. 
 
 Éxito!!
 
